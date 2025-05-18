@@ -414,14 +414,14 @@ height: 48px;
 }
 
 
-.footer__social-list-item {
-list-style: none;
-}
-
-
 .footer__social-link  {
 justify-self: end;
 gap: 48px;
+}
+
+
+.footer__social-list-item {
+list-style: none;
 }
 
 
