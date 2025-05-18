@@ -1,5 +1,4 @@
 /* место для вашего кода */
-/* место для вашего кода */
 .header {
 Padding: 91px 50px 97px;
 display: grid;
@@ -17,6 +16,7 @@ align-items: center;
 list-style: circle;
 }
 
+
 .header__links-list-item {
 text-decoration: none;
 }
@@ -31,6 +31,7 @@ list-style: none;
 width: 148px;
 height: 105px;
 }
+
 
 .header_address {
 align-items: center;
@@ -64,7 +65,7 @@ min-height: 757px;
 }
 
 
- .overlay { 
+.overlay { 
 position: absolute;
 top: 0;
 left: 0;
@@ -77,7 +78,7 @@ height: 100%;
 }  
 
 
-.cover__title{
+.cover__title {
 display: flex;
 flex-direction: column;
 padding: 165px 50px 60px 50px;
@@ -340,7 +341,7 @@ background-position: center
   margin: 120px 24px 180px;
 }
 
-.about__column{
+.about__column {
   grid-column: 2/3;
   padding-left: 24px;
 }
@@ -367,7 +368,8 @@ height: 113px;
 .about__content {
 display: flex;
 flex-direction: column;
- padding-left: 359px; 
+ padding-left: 359px;
+
 }
 
 
@@ -433,18 +435,8 @@ list-style: none;
 }
 
 
-.footer__address {
-
-}
-
-
 .footer__menu {
 text-align: center;
-}
-
-
-.footer__menu-list {
-
 }
 
 
